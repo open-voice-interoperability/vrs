@@ -37,7 +37,7 @@ uuid = { version = "0.8.1", features = ["serde", "v4"] }
 log = "0.4"
 log4rs = "0.8"
 openssl-sys = "0.9"
-openssl = { version = "0.10.33", features = ["vendored"] }
+openssl = { version = "0.10.48", features = ["vendored"] }
 
 
 [dev-dependencies]
